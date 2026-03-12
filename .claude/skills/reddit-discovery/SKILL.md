@@ -1,0 +1,1 @@
+../../../skills/reddit-discovery.skill.md

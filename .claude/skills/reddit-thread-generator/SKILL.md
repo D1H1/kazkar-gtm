@@ -1,0 +1,1 @@
+../../../skills/reddit-thread-generator.skill.md
